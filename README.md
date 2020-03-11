@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# About me and ancient bats, rats, and their DNA
 
-You can use the [editor on GitHub](https://github.com/sindyluu/sindyluu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Sindy Luu and welcome to my blog about my research projects and personal journeyings through a PhD and science. The existence of this blog began with my participation of [23 Things 2020](https://23things2020.wordpress.com/), an international universities initiative that connects students and professionals between New Zealand and the United Kingdom. One of the relevant tasks is to create a website - _ta da_!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My PhD research
+It is 2020 and I am in my final year of my PhD with the University of Otago. I am associated with the [Bioanthropology Research Group of the Department of Anatomy](https://www.otago.ac.nz/anatomy/research/bioanthropology/index.html), and with the [Archaeology programme, School of Social Sciences](https://www.otago.ac.nz/archaeology/index.html).  
 
-### Markdown
+My thesis aims to evaluate the potential for the use of Next Generation Sequencing (NGS) methods to engage with age-old archaeological research questions relevant to Near Oceania and the Pacific, dating from 40,000 BP to the mid-Holocene: subsistence strategies, resource use and domestication, migration and trade. It is a techniques-focused project, divided into case studies packed with exciting archaeological and anthropological research questions. Key sites include New Ireland (testing DNA preservation), Kiowa (exploitation of mammals and birds for subsistence and trade), Adele Island (commensal model). At the same time, my thesis will test the preservation potential of ancient DNA in the tropics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In sum, I study the ancient DNA of bats, rats and other animal bones that were discarded by prehistoric peoples after their meals or other uses. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sindyluu/sindyluu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What you might find on this website?
+In honesty, I have no clue - it is all fairly new. I intend it to be informative about various aspects of my projects and the science behind them. But I also am interested in the personal and reflective processes in learning, being a scientist, and being a postgraduate student in a university institution. One thing that frequently comes out at various workshops on 'How to PhD' or 'How to be a postgraduate', on twitter (\#AcademicChatter is an interesting one to follow), and from lunch time chats with fellow colleagues and friends, is how common yet individualistic our journeys are, and so there will be some posts about my own experiences.
+I hope you will find some of these things I will post about insightful and exciting, and welcome aboard!
