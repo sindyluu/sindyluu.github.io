@@ -1,4 +1,4 @@
-# About me and ancient bats, rats, and their DNA
+# About me and why ancient bats, rats, and their DNA
 
 Hello! My name is Sindy Luu and welcome to my blog about my research projects and personal journeyings through a PhD and science. 
 
